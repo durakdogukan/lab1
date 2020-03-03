@@ -1,1 +1,1 @@
- ![Lab1 - Gif ](outputs/lab1.gif)
+ ![Lab1 - Gif ](lab1.gif)
