@@ -1,2 +1,1 @@
-# lab1
- lab1 ödevi
+ ![Lab1 - Gif ](lab1.gif)
